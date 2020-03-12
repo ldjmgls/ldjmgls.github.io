@@ -6,15 +6,15 @@
    * Future Plan: beautify the layouts and implement back-end tecniques to create a blog-like website
 
 ## Sections
-### Home  
+### 1. Home  
    Brief introduction of me
 
-### Campus(Exchange) Life  
+### 2. Campus(Exchange) Life  
    Record of thoughts or feelings
 
-### Projects  
+### 3. Projects  
    School projects or works will be presented here later
    
-### Contact
+### 4. Contact
 
 ## References
