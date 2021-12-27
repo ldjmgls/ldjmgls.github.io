@@ -1,4 +1,6 @@
 # Personal Website
+### *Under construction!*
+My site is published at https://ldjmgls.github.io/
 
 ## Intro
    * A prototpye website which is used to record my life.
